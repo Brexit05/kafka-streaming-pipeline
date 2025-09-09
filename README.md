@@ -82,7 +82,7 @@ kafka-streaming-project/
 
 How to Run
 1. Clone the repository
-git clone https://github.com/yourusername/kafka-streaming-project.git
+git clone https://github.com/Brexit05/kafka-streaming-pipeline.git
 cd kafka-streaming-project
 
 2. Start Docker containers
@@ -124,5 +124,6 @@ Next Steps
 Add data visualization with Power BI or Grafana.
 
 Extend to a batch + stream hybrid pipeline (Airflow + Kafka).
+
 
 Deploy to a cloud environment (AWS/GCP/Azure).
