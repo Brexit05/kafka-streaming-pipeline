@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+
+*.log
+logs/
+
+venv/
+.env
+*.env
+kafka-env/
+
+*.pid
+*.sock
